@@ -4,6 +4,7 @@ void main ()
 {
 clrscr();
 int n;
+cout<<"Hello Sir"<<endl;
 cout<<"Enter number of rows";
 cin>>n;
 int k=2*n-2;
